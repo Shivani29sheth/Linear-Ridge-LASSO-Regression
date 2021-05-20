@@ -37,6 +37,6 @@ Mean Square Error: 55.53465972319111
 <img src="Regression_Results/LASSO_performance.png" width="35%" height="35%">
 
 Mean Square Error: 53.32452986795816
-
+<br>
 
 As we see, for the Boston Housing dataset, Linear Regression performs the best with a Mean Square Error of 21, followed by LASSO with a Mean Square Error: 53, and Ridge Regression with a Mean Square Error: 55.
