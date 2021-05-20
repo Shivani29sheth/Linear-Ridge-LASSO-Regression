@@ -6,7 +6,7 @@ Implement Linear Regression, Ridge Regression, and LASSO algorithms on a small d
 
 ## Solution
 
-**Linear Regression:**
+### Linear Regression:
 
 <img src="Regression_Results/Linear_loss.png" width="35%" height="35%">
 
@@ -16,7 +16,7 @@ Mean Square Error: 21.0060543102941
 
 <br>
 
-**Ridge Regression:**
+### Ridge Regression:
 
 <img src="Regression_Results/Ridge_loss.png" width="35%" height="35%">
 
@@ -26,7 +26,7 @@ Mean Square Error: 55.53465972319111
 
 <br>
 
-**LASSO:**
+### LASSO:
 
 <img src="Regression_Results/LASSO_loss.png" width="35%" height="35%">
 
